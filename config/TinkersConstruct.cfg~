@@ -1,5 +1,10 @@
 # Configuration file
 
+achievements {
+    B:"Enable Achievements"=true
+}
+
+
 "difficulty changes" {
     B:"Allow creation of endstone"=true
     B:"Craft metals with Wood Patterns"=false
@@ -26,7 +31,7 @@
 
 dimblacklist {
     # True: slime islands wont generate in any ages other than overworld(if enabled); False: will generate in all non-blackisted ages
-    B:GenerateSlimeIslandInDim0Only=false
+    B:GenerateSlimeIslandInDim0Only=true
 
     # Add dimension ID's to prevent slime islands from generating in them
     I:SlimeIslandDimBlacklist <
@@ -50,6 +55,8 @@ experimental {
 
 
 general {
+    # You will always get a TConstruct item from casting an ingot or block.
+    B:"Always cast TConstruct ingots"=true
     I:"Sea level"=64
 }
 
@@ -60,12 +67,18 @@ looks {
 }
 
 
-"smeltery output modification" {
-    # Number of ingots returned from smelting Aluminum Brass in the smeltery
-    I:"Aluminum Brass ingot return"=4
+mobs {
+    # Set to 0 to disable
+    I:"Blue Slime spawn chance"=1
+}
 
-    # Number of ingots returned from smelting Alumite in the smeltery
+
+"smeltery output modification" {
+    I:"Aluminum Brass ingot return"=4
     I:"Alumite ingot return"=3
+
+    # Number of ingots returned from smelting Brass in the smeltery
+    I:"Brass ingot return"=4
 
     # Number of ingots returned from smelting Bronze in the smeltery
     I:"Bronze ingot return"=4
@@ -78,6 +91,9 @@ looks {
 
     # Number of ingots returned from smelting Pig Iron in the smeltery
     I:"Pig Iron ingot return"=1
+
+    # Number of ingots returned from smelting Zarcon in the smeltery
+    I:"Zarcon ingot return"=3
 }
 
 
@@ -142,6 +158,14 @@ worldgen {
     I:"Tin Underground Density"=2
     I:"Tin Underground Max Y"=40
     I:"Tin Underground Min Y"=0
+    I:"Zinc Bush Density"=2
+    I:"Zinc Bush Max Y"=60
+    I:"Zinc Bush Min Y"=0
+    I:"Zinc Bush Rarity"=2
+    I:"Zinc Surface Rarity"=50
+    I:"Zinc Underground Density"=3
+    I:"Zinc Underground Max Y"=64
+    I:"Zinc Underground Min Y"=0
 }
 
 
@@ -160,8 +184,11 @@ worldgen {
     B:"Generate Surface Gold"=false
     B:"Generate Surface Iron"=false
     B:"Generate Surface Tin"=false
+    B:"Generate Surface Zinc"=false
     B:"Generate Tin"=false
     B:"Generate Tin Bushes"=false
+    B:"Generate Zinc"=false
+    B:"Generate Zinc Bushes"=false
 }
 
 
