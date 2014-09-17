@@ -1,0 +1,82 @@
+The Ultimate Geologists Handbook: Introduction
+
+   It is commonly known that underneath our feet lie vast treasures of raw metallic resources. Many an aspiring miner has struck out to make his fortune by the swing of his pick and strength of his arm. Those who survive the perils of the deep often return with nothing to show for their efforts but a couple piles of common stone, blistered hands, and a sudden urge to return to mundane farming. Some, however, return with packs bulging with raw ore and precious gems, and an air of triumph. What is the secret of these few "lucky" miners? Why, they mine smarter, not harder! Continue reading on, Novice Pick-Swinger, and learn the techniques and secrets of the master miner.
+
+The Ultimate Geologists Handbook: Ore
+
+   One cannot just expect to find pure metal just laying on the cave floor. Metal and gems of all types are encased in hard stone, waiting to be liberated from the clutch of the earth by the sharp tip of your pick. Unfortunately, some of this ore has a very poor metal content, but usually the rest of the ore has a rather profitable metal concentration.
+   
+The Ultimate Geologists Handbook: Veins
+
+   Not all stone has is enriched with ore, and the stone that is isn't just liberally sprinkled throughout the depth of the world. Most ore is found in long "veins" twisting through the barren stone. Veins are found of all lengths and extend anywhere from the tallest mountains to the impenetrable bedrock below. However, it appears that each variety of ore has a common depth of origin. This is the most important secret of profitable mining. By the Addition Theorm for Probability, mining at the common depth of origin for the ore you are looking for will increase one's chances of finding an ore vein by two-fold.
+   
+The Ultimate Geologists Handbook: Clouds
+
+   While most ore is found in veins, it is very hard to meet a very large ore goal by individually hunting down veins and clearing them out. Luckily there are huge somewhat diffuse pockets of rich ore to be found in the world. These ore "clouds" are very rare, but once found, if is extremely profitable to set of a base of operations in their area until you hollow them out. As rare as they are, it may seem impossible to find a specific variety of ore cloud, but luckily specific ores only form clouds in certain climates. By targeting specific climates, one can narrow their search by three-fold.
+
+The Ultimate Geologists Handbook: Iron Veins
+
+Iron veins are consistently surveyed to originate about 19 meters below sea level.
+
+The Ultimate Geologists Handbook: Gold Veins
+
+Gold veins are consistently surveyed to originate about 49 meters below sea level.
+
+The Ultimate Geologists Handbook: Copper Veins
+
+Copper veins are consistently surveyed to originate about 9 meters below sea level.
+
+The Ultimate Geologists Handbook: Tin Veins
+
+Tin veins are consistently surveyed to originate about 29 meters below sea level.
+
+The Ultimate Geologists Handbook: Zinc Veins
+
+Zinc veins are consistently surveyed to originate about 9 meters below sea level.
+
+The Ultimate Geologists Handbook: Silver Veins
+
+Silver veins are consistently surveyed to originate about 38 meters below sea level.
+
+The Ultimate Geologists Handbook: Dark Iron Veins
+
+Dark Iron veins are consistently surveyed to originate just above bedrock.
+
+The Ultimate Geologists Handbook: Iron Clouds
+
+Rich pockets of Iron have been surveyed on cold regions.
+
+The Ultimate Geologists Handbook: Gold Clouds
+
+Rich pockets of Gold have been surveyed on hot regions.
+
+The Ultimate Geologists Handbook: Copper Clouds
+
+Rich pockets of Copper have been surveyed on hot regions.
+
+The Ultimate Geologists Handbook: Tin Clouds
+
+Rich pockets of Tin have been surveyed on temperate regions.
+
+The Ultimate Geologists Handbook: Zinc Clouds
+
+Rich pockets of Zinc have been surveyed on temperate regions.
+
+The Ultimate Geologists Handbook: Silver Clouds
+
+Rich pockets of Silver have been surveyed on cold regions.
+
+The Ultimate Geologists Handbook: Gems
+
+Diamonds and Emeralds are incredibly valuable, but notoriously difficult to find and incredibly dangerous to mine. The world does not like to give up her most valuable treasures, and guards them with liquid fire and highly dangerous creatures.
+
+The Ultimate Geologists Handbook: Diamonds
+
+   Diamonds are thrust into the crust from the great deeps by magma plumes. As a result, diamonds are most common in the stone surrounding these tubes of lava. It also appears that sometimes large clusters of diamonds form, but these are rare in the extreme and are almost impossible to find.
+
+The Ultimate Geologists Handbook: Emeralds
+
+   Emeralds form similarly to diamonds, but strange and dangerous creatures are attracted to the gems and displace the magma plumes with their nests. Many miners, overcome with greed, meet their end when they accidentally disturb the voracious creatures nests.
+
+The Ultimate Geologists Handbook: Redstone and Lapis Pillars
+   While redstone is not a metal, it is highly valuable to the tech industries and should be gathered when it is found. it is formed as vertical pillars in the upper half of the minable crust. Lapis is an uncommon beautiful blue stone that also forms pillars. It is found in the lower half of the minable crust.

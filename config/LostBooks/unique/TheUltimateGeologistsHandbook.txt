@@ -1,0 +1,3 @@
+can_buy=true
+
+whitelist=Merchant,51,54,55,57,60,66

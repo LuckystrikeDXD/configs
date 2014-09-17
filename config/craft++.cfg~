@@ -1,0 +1,23 @@
+# Configuration file
+
+general {
+    B:"Baby zombies burn in daylight: "=true
+    B:"Command Blocks in creative menu: "=true
+    I:"Starting enchantment ID: "=100
+    B:"Stone tools crafted from stone: "=true
+
+    creepers {
+        B:"Creepers burn in daylight: "=true
+        B:"Creepers drop TNT: "=true
+    }
+
+    "animal bone drops" {
+        B:"Animals drop bones: "=true
+        I:"Bones dropped by chickens: "=1
+        I:"Max bones dropped by animals: "=3
+        I:"Min bones dropped by animals: "=1
+    }
+
+}
+
+

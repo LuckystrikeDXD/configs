@@ -1,0 +1,20 @@
+# Configuration file
+
+development {
+    B:Development.ForceLoadDevContent=false
+}
+
+
+rendering {
+    B:Rendering.Debug=false
+    I:Rendering.GUITopLeftXOffset=0
+    I:Rendering.GUITopLeftYOffset=0
+    B:Rendering.Tank.GaseousTopToBottom=false
+}
+
+
+tank {
+    I:Tank.StorageMultiplier=512000
+}
+
+

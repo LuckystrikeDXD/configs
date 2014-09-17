@@ -1,0 +1,95 @@
+{
+    "copper": {
+        "template": "normal",
+        "block": [
+                "minecraft:stone",
+        ],
+        "metadata": [
+                0,
+                0,
+                9,
+                5
+        ],
+        "weight": [
+                40,
+                30,
+                15,
+                15
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 1260,
+        "numClusters": 0,
+        "meanHeight": 58,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tin": {
+        "template": "normal",
+        "block": [
+                "minecraft:stone",
+        ],
+        "metadata": [
+                1,
+                0,
+                10,
+                0,
+                0
+                
+        ],
+        "weight": [
+                40,
+                30,
+                15,
+                14,
+                1
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 1200,
+        "numClusters": 0,
+        "meanHeight": 37,
+        "maxVariance": 7,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "silver": {
+        "template": "normal",
+        "block": [
+                "minecraft:stone"
+        ],
+        "metadata": [      
+                2,
+                0
+        ],
+        "weight": [
+                50,
+                50
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 250,
+        "numClusters": 0,
+        "meanHeight": 24,
+        "maxVariance": 6,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    
+}
