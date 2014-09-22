@@ -213,6 +213,7 @@ recipes.remove(<progressiveautomation:Planter>);
 NEI.hide(<progressiveautomation:Planter>);
 
 mods.tconstruct.Smeltery.removeAlloy(<liquid:obsidian.molten> * 288);
+mods.tconstruct.Smeltery.removeAlloy(<liquid:steel.molten> * 288);
 #mods.tconstruct.Smeltery.removeMelting(<minecraft:obsidian>);
 #mods.tconstruct.Smeltery.removeMelting(<Railcraft:dust>);
 #mods.tconstruct.Smeltery.removeMelting(<ThermalFoundation:material:4>);
@@ -269,3 +270,5 @@ recipes.remove(<Metallurgy:alloyer>);
 recipes.remove(<EnderIO:blockFarmStation>);
 furnace.remove(<minecraft:coal:1>);
 recipes.remove(<ThermalFoundation:material:41>);
+
+
